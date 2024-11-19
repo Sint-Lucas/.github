@@ -1,5 +1,4 @@
-# .github
-README for sintlucas
+# README for sintlucas
 
 
 ## Contributors:
