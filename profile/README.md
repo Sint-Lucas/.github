@@ -1,4 +1,6 @@
 # Sint-Lucas
-vakschool voor creatief talent
+Vakschool voor creatief talent
 
-[sintlucas site](https://www.sintlucas.nl/)
+[SintLucas site!](https://www.sintlucas.nl/)
+
+SintLucas begeleidt creatieve talenten naar een succesvolle toekomst in de creatieve industrie
