@@ -1,5 +1,6 @@
-# README for sintlucas
+# README for SintLucas
 ## Contributors:
-- [Dean](https://github.com/DeanLemans)
+- [cheese](https://github.com/DeanLemans)
+- [nooseses](https://github.com/nooseses)
 
 This README was made possible by SiNTLUCAS & Friends!
