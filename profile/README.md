@@ -6,4 +6,3 @@ SintLucas is het kloppende hart van de creatieve industrie.
 [Ons verhaal is een van creatieve vernieuwing.](https://www.sintlucas.nl/ons-verhaal)
 
 ![logo](sintlucas-logo.jpg)
-s
